@@ -27,3 +27,8 @@ nnoremap <C-h> <C-w>h
 nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
+
+map <C-,> :NERDTreeToggle<CR>
+map <C-n> :NERDTreeFind<CR>
+map <C-a> :bnext<CR>
+map <C-d> :bd<CR>
