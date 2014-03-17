@@ -20,3 +20,10 @@ set softtabstop=2
 if $COLORTERM == 'gnome-terminal'
       set t_Co=256
 endif
+
+let mapleader=","
+nnoremap <leader>w <C-w>v<C-w>l
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
