@@ -1,0 +1,13 @@
+[core]
+	quotepath = false
+	excludesfile = /Users/ramin/.gitignore_global
+	autocrlf = input
+	editor = vim
+[user]
+	name = Ruhul Amin
+	email = ruhul@onfido.co.uk
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
